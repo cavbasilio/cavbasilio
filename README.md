@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello, there you!
 
-<!--
-**cavbasilio/cavbasilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 Currently, working in a internet provider Playfibra (@playfibra) as developer junior and technical support.
+- 📖 Fan of tech books that force reasoning.
+- 🖥️ Regular PHP and database student 
+- 🎓 Graduating in GTI 
+- 🧑🏾‍💼 Linkedin : jordan-basilio
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 100DiasDeCodigo;
+      continue
+      
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=jord4ncav">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=jord4ncav" width="450" height="195" alt="Progresso 100 dias de codigo">
+</a>

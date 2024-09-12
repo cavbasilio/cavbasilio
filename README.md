@@ -8,8 +8,3 @@
 
 
 ## 100DiasDeCodigo;
-      continue
-      
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=jord4ncav">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=jord4ncav" width="450" height="195" alt="Progresso 100 dias de codigo">
-</a>
